@@ -1,0 +1,10 @@
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\bin\Debug\Day6AdvWinFormslab.exe.config
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\bin\Debug\Day6AdvWinFormslab.exe
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\bin\Debug\Day6AdvWinFormslab.pdb
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\obj\Debug\Day6AdvWinFormslab.csprojAssemblyReference.cache
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\obj\Debug\Day6AdvWinFormslab.Properties.Resources.resources
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\obj\Debug\Day6AdvWinFormslab.csproj.GenerateResource.cache
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\obj\Debug\Day6AdvWinFormslab.csproj.CoreCompileInputs.cache
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\obj\Debug\Day6AdvWinFormslab.exe
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\obj\Debug\Day6AdvWinFormslab.pdb
+D:\ITI_FullStack(3)MonthProgram\OOP_Lectures\AdvancedC#\Day6\Day6AdvWinFormslab\obj\Debug\Day6AdvWinFormslab.Notes.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6AdvWinFormslab", "Day6AdvWinFormslab.csproj", "{24F5CAA1-BCA6-409E-9041-9DC92F6393D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F5CAA1-BCA6-409E-9041-9DC92F6393D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F5CAA1-BCA6-409E-9041-9DC92F6393D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F5CAA1-BCA6-409E-9041-9DC92F6393D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F5CAA1-BCA6-409E-9041-9DC92F6393D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A1A87A-15C2-439E-A18E-77A6677D80E9}
+	EndGlobalSection
+EndGlobal
